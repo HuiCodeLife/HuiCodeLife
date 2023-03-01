@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HuiCodeLife
-- 👀 I’m interested in java、vue,etc.
-- 🌱 I’m currently learning ing...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in java、springboot、vue、etc.
+- 🌱 努力
 
 <!---
 huidevnull/huidevnull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
