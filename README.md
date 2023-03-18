@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HuiCodeLife
-- 👀 I’m interested in java、springboot、vue、etc.
+- 👀 I’m interested in java、python.
 - 🌱 努力
 
 <!---
